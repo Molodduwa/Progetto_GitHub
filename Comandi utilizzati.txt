@@ -1,0 +1,11 @@
+Passaggi per eseguire il compito:
+1. Creazione cartella su desktop
+2. Creazione repository (github)
+3. configurazione git bash
+4. clonazione repository nella cartella desktop
+5. aggiungere file manualmente
+6. git add (per aggiungere all'area di lavoro)
+7. git commit (salvare le modifiche)
+8. git push -u origin main (carica su git hub i file aggiunti pocanzi)
+9. condivisione cartella a collaboratore 
+10 CONSEGNA
